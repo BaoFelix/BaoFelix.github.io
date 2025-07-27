@@ -13,6 +13,8 @@ Continuous retrospection and empowerment were at the heart of this. We encourage
 
 The **“Inspective Light” pyramid** illustrates how this worked in practice: at the top are outcomes like improved quality focus and a safer environment; the middle shows outputs such as quality enhancement and identifying root causes; and the base emphasises practices like post‑mortem reviews. This diagram became a talking point in our retrospectives and helped new members understand why quality was non‑negotiable.
 
+![Inspective Light Pyramid](scrum_images-000.png)
+
 ## Turning OKRs into action with post‑mortems
 
 Objectives and Key Results (OKRs) are only useful when they trigger real work. For each key result we identified concrete actions – experiments, refactors or training sessions – that would move the metric. During sprint planning we checked whether the backlog contained these actions. In this way, **O → KR → Action** became part of our vocabulary and prevented people from confusing tasks with outcomes.
@@ -22,6 +24,8 @@ To close the loop we institutionalised post‑mortem reviews. At the end of each
 - Reviewed the previous release’s OKRs and progress – what worked and what didn’t.
 - Implemented actions – ensured retro tasks and experiments were carried out during the release.
 - Collected and analysed data – bug/PR statistics, burndown charts and velocity metrics, then summarised lessons and defined the next OKR.
+
+![Post‑mortem Cycle](scrum_images-001.png)
 
 This continuous loop of learning and improvement ensured we weren’t just making noise; we were systematically improving the way we worked. A typical post‑mortem would dissect our bug analysis, root‑cause findings and sprint burndowns. We discovered, for example, that SCD5 dependencies slowed us down, and that sprint retrospectives were more effective when they included epic status, focus on release OKRs and a space for “having voices”. Each insight led to actions – such as introducing quality labels to evaluate product quality or rewriting acceptance criteria checklists – and those actions fed into the next iteration’s OKRs.
 
@@ -34,6 +38,8 @@ As our team matured, we moved from “inspecting” to “soaring.” The **Tran
 - **Breaking down barriers for collaboration** – stakeholders gained a comprehensive understanding of our progress, leading to seamless collaboration across groups.
 
 The accompanying diagram captured this transformation. The green “outcomes” highlighted our ambition to drive continuity and empower the team. The yellow “outputs” listed concrete deliverables such as completing intended deliverables on schedule and optimising resource allocation. The orange “practices” reminded us of the habits that supported these goals: predictable project management, transparent status, traceability and shared knowledge.
+
+![Transparent Wings Pyramid](scrum_images-002.png)
 
 ## Delivering on promises
 
