@@ -16,41 +16,56 @@
       color: #333;
     }
     .container {
-      max-width: 800px;
+      max-width: 900px;
       margin: 0 auto;
-      background-color: rgba(255, 255, 255, 0.9);
-      padding: 40px;
-      margin-top: 40px;
-      margin-bottom: 40px;
-      border-radius: 8px;
+      background-color: rgba(255, 255, 255, 0.92);
+      padding: 50px;
+      margin-top: 50px;
+      margin-bottom: 50px;
+      border-radius: 10px;
       box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     }
     h1 {
       color: #2c3e50;
+      margin-top: 0;
     }
     h2 {
       color: #8e5a00;
       margin-top: 1.5em;
     }
+    p {
+      line-height: 1.6;
+      margin-bottom: 1.2em;
+    }
     ul {
-      padding-left: 1em;
+      list-style: none;
+      padding-left: 0;
     }
-    li {
-      margin-bottom: 1em;
+    li.article-card {
+      background-color: #f9f8f6;
+      border-left: 4px solid #8e5a00;
+      padding: 16px 20px;
+      margin-bottom: 20px;
+      border-radius: 6px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.05);
     }
-    a {
-      color: #005ab3;
+    a.article-title {
+      color: #2c3e50;
+      font-weight: bold;
+      font-size: 1.1em;
       text-decoration: none;
     }
-    a:hover {
+    a.article-title:hover {
       text-decoration: underline;
     }
     .article-date {
-      font-size: 0.9em;
+      font-size: 0.85em;
       color: #666;
+      margin-top: 4px;
     }
     .article-excerpt {
-      margin-top: 0.25em;
+      margin-top: 6px;
+      color: #444;
     }
   </style>
 </head>
@@ -60,11 +75,12 @@
     <p>Hello! I'm Felix, an engineer-turned Scrum Master from Inner Mongolia who enjoys sharing my insights on software development, agile practices, cross-cultural teamwork and more. Here you'll find reflections on my journey and lessons learned along the way.</p>
     <h2>Articles</h2>
     <ul>
-      <li>
-        <a href="illuminating-path.html"><strong>Illuminating the Path and Soaring Beyond Barriers: My Journey as a Scrum Master</strong></a>
+      <li class="article-card">
+        <a class="article-title" href="illuminating-path.html">Illuminating the Path and Soaring Beyond Barriers: My Journey as a Scrum Master</a>
         <div class="article-date">July 27, 2025</div>
-        <div class="article-excerpt">A reflection on how focusing on quality and transparency helped our cross-functional team deliver consistently.</div>
+        <div class="article-excerpt">As a cross‑functional team embraced quality and transparency, we discovered how focusing on continuous improvement empowers everyone to deliver better results.</div>
       </li>
+      <!-- Future articles can be added here as additional list items -->
     </ul>
   </div>
 </body>
