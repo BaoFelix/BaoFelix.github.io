@@ -3,66 +3,46 @@ title: "Illuminating the Path and Soaring Beyond Barriers: My Journey as a Scrum
 date: 2025-07-27
 ---
 
-As an engineer‑turned‑Scrum‑Master from China, I’ve spent the last few years helping a cross‑functional product team navigate organisational change, technical debt and feature pressure. We didn’t always get it right, but by embracing transparency and continuous improvement we built a culture that values quality, delivers on commitments and allows everyone’s voice to be heard.
+As an engineer‑turned‑Scrum‑Master from China, I’ve spent the last few years helping a cross‑functional product team navigate organisational change, technical debt and feature pressure. We didn’t always get it right, however by consistently embracing transparency and continuous improvement, we managed to build a culture that valued quality, delivered on commitments, and made sure everyone’s voice was heard.
 
 ## An inspective light on quality and culture
 
-One of the first lessons we learned was that shipping new features at all costs is a false economy. In our **Inspective Light** OKR we intentionally set objectives around quality, not feature counts. By prioritising bug fixes and regression prevention, the number of pull requests (PRs) and regression tests shrank compared with the previous release. We also saw more issues closed proactively, an indication that engineers were addressing problems before they became PRs.
+One of the first lessons I learned in this journey was that shipping new features at all costs is a false economy. In our "Inspective Light" OKR (Objectives and Key Results) framework, we intentionally set objectives around quality rather than how many features we can commit. By prioritizing bug fixes and regression prevention, we actually saw the number of bugs and regressions go down compared to the previous release. We also saw more issues being closed proactively, which indicated that engineers were catching and addressing problems before they even became bugs.
 
-Continuous retrospection and empowerment were at the heart of this. We encouraged the team to acknowledge shortcomings and seek change. Reflecting on our progress – not to apportion blame, but to learn – helped everyone accept organisational shifts and drive continual improvement. This openness fostered a safe environment where problems were surfaced early and addressed collaboratively.
+At the heart of our approach were continuous retrospection and team empowerment. We encouraged everyone on the team to acknowledge shortcomings openly and actively seek change. By reflecting on our progress without assigning blame (focusing on learning instead), the team fostered a culture of continuous improvement, proactively addressing challenges and adapting practices to enhance performance. This openness created a safe environment where problems were surfaced early and solved collaboratively.
 
-The **“Inspective Light” pyramid** illustrates how this worked in practice: at the top are outcomes like improved quality focus and a safer environment; the middle shows outputs such as quality enhancement and identifying root causes; and the base emphasises practices like post‑mortem reviews. This diagram became a talking point in our retrospectives and helped new members understand why quality was non‑negotiable.
+The **“Inspective Light” pyramid** we created illustrated how this worked in practice. At the top of the pyramid were the outcomes we aimed for, like a stronger focus on quality and a safer team environment. In the middle were the outputs, such as concrete quality improvements and identified root causes of issues. At the base were the practices that supported these results, including habits like thorough post-mortem reviews. This diagram became a regular talking point in our retrospectives and helped new team members understand why we treated quality as non-negotiable.
 
 ![Inspective Light Pyramid](scrum_images-000.png)
 
 ## Turning OKRs into action with post‑mortems
 
-Objectives and Key Results (OKRs) are only useful when they trigger real work. For each key result we identified concrete actions – experiments, refactors or training sessions – that would move the metric. During sprint planning we checked whether the backlog contained these actions. In this way, **O → KR → Action** became part of our vocabulary and prevented people from confusing tasks with outcomes.
+Objectives and Key Results (OKRs) are only useful when they trigger real work. For each key result we set, we defined specific initiatives – design, refactors or training sessions – that would move the needle on that metric. During sprint retrospective we checked whether the status of these actions. In this way, the flow from**Objective → Key Result → Action** became part of our vocabulary and prevented people from confusing tasks with outcomes.
 
-To close the loop we institutionalised post‑mortem reviews. At the end of each release we:
+To close the loop, we made post-mortem reviews a routine part of our process. At the end of each release cycle, we would:
 
-- Reviewed the previous release’s OKRs and progress – what worked and what didn’t.
-- Implemented actions – ensured retro tasks and experiments were carried out during the release.
-- Collected and analysed data – bug/PR statistics, burndown charts and velocity metrics, then summarised lessons and defined the next OKR.
+- Review the previous release’s OKRs and results – discussing what worked well and what didn’t.
+- Implement the follow-up actions – ensuring that retrospective items and experiment ideas were actually carried out during the release.
+- Collected and analysed data – bug statistics, burndown charts and velocity metrics, then summarised lessons and defined the next OKR.
 
 ![Post‑mortem Cycle](scrum_images-001.png)
 
-This continuous loop of learning and improvement ensured we weren’t just making noise; we were systematically improving the way we worked. A typical post‑mortem would dissect our bug analysis, root‑cause findings and sprint burndowns. We discovered, for example, that SCD5 dependencies slowed us down, and that sprint retrospectives were more effective when they included epic status, focus on release OKRs and a space for “having voices”. Each insight led to actions – such as introducing quality labels to evaluate product quality or rewriting acceptance criteria checklists – and those actions fed into the next iteration’s OKRs.
+This continuous loop of learning and improvement (our post-mortem cycle) ensured we weren’t just making noise; we were systematically improving the way we worked. A typical post-mortem would break down our bug analysis, examine root causes, and review sprint burndowns. We discovered, for example, that certain dependencies were slowing us down. We also found that sprint retrospectives were more effective when we included an update on epic status, kept focus on the release OKRs, and provided a space for everyone to have a voice. Each insight led to a concrete action — for instance, introducing special “quality” labels in our issue tracker to better evaluate product quality, or rewriting our acceptance criteria checklists to be more clear. Those actions then fed into the next iteration’s OKRs, creating a virtuous cycle of continuous improvement.
 
 ## Soaring beyond barriers with transparent wings
 
-As our team matured, we moved from “inspecting” to “soaring.” The **Transparent Wings** initiative focused on continuity, self‑organisation and collaboration. We wanted to deliver value even when priorities shifted, so we invested in predictable project management and transparency. Outcomes included:
+As our team matured, we moved from just “inspecting” to truly “soaring”. Our Transparent Wings initiative was all about continuity, self-organization, and collaboration. We wanted to keep delivering value even when priorities shifted, so we invested heavily in predictable project management practices and total transparency. As a result, we achieved several key outcomes:
 
-- **Driving continuity and value** in an ever‑changing environment – by being transparent about plans and progress, we enabled other teams to adjust and continue their work.
-- **Increment to a cross‑functional self‑organised team** – better planning, documentation and communication meant we could manage risks and dependencies, share knowledge and maintain a clear project status.
-- **Breaking down barriers for collaboration** – stakeholders gained a comprehensive understanding of our progress, leading to seamless collaboration across groups.
+- **Driving continuity and value** in an ever-changing environment – By being transparent about our plans and progress, we enabled other teams around us to adjust and continue their work without any disruption.
+- **Evolving into a self-organizing team** – Through better planning, documentation, and communication, we could manage risks and dependencies more effectively, spread knowledge across the team, and keep the project status clear to everyone.
+- **Breaking down collaboration barriers** – Because stakeholders had a comprehensive view of our progress and plans, it fostered seamless collaboration across different groups and departments.
 
-The accompanying diagram captured this transformation. The green “outcomes” highlighted our ambition to drive continuity and empower the team. The yellow “outputs” listed concrete deliverables such as completing intended deliverables on schedule and optimising resource allocation. The orange “practices” reminded us of the habits that supported these goals: predictable project management, transparent status, traceability and shared knowledge.
+The diagram I created for Transparent Wings captured this transformation nicely. In that diagram, the green “outcomes” at the top represented our goals to drive continuity and empower the team. The yellow “outputs” in the middle listed concrete deliverables, like finishing all intended features on schedule and optimizing resource allocation. The orange “practices” at the base highlighted the habits that supported these goals — such as maintaining predictable project management, providing transparent status updates, ensuring traceability of work, and sharing knowledge openly.
 
 ![Transparent Wings Pyramid](scrum_images-002.png)
 
-## Delivering on promises
-
-During the 2306 release we completed our epics on schedule. We achieved this by proactively communicating requirements and plans, providing guidance documents and demoing new functionality. We also improved resource allocation by exposing requirements, dependencies and risks so project managers could rebalance workloads. Importantly, we delivered without major design or behaviour changes. This stability allowed downstream teams to integrate our work smoothly.
-
-## Best practices and working agreements
-
-Beyond charts and diagrams, our success was built on habits and agreements. Some highlights include:
-
-- **Roadmap definition** – analysing requirements to determine the minimum marketable features and then co‑creating a roadmap. Epic leaders shared dependencies and risks, every member contributed ideas and concerns, and we updated the roadmap after every sprint.
-- **Epic structure for transparency** – using the epic structure view in our issue tracker improved vertical slicing and made progress, dependencies and risks visible.
-- **Root‑cause labelling** – adding root‑cause labels to PRs and bugs improved our quality analysis.
-- **Proactive status exposure** – we posted progress updates, risks and dependencies regularly and asked epic leaders to keep their statuses current.
-- **Improved traceability and documentation** – we kept wiki pages structured and used templates for requirements, design and functional tests so anyone could understand a feature’s intent and status.
-- **Feedback and retro action management** – sprint review feedback was logged in a wiki, actionable items were converted into tasks and pulled into the sprint backlog.
-- **Knowledge sharing** – a well‑structured wiki hierarchy and clear communication channels made knowledge public and shared.
-
-These practices, combined with the checklists we used for definition of ready (DoR) and definition of done (DoD), ensured that epics and user stories were thoroughly analysed before development. We evaluated dependencies, skills gaps and test designs; and we defined acceptance criteria before moving a task to ready status. Having lightweight templates for requirement specs, design docs and functional test plans gave our work consistency without bureaucratic overhead.
-
 ## Reflections and what’s next
 
-Looking back, the biggest achievement wasn’t a particular feature or metric; it was cultivating an open, data‑driven mindset. By shining a light on quality, turning OKRs into actions and celebrating transparency, we empowered the team to own the process. Our retrospectives were no longer blame sessions but learning opportunities. Post‑mortems and root‑cause labels turned instinct into evidence. Roadmaps and epic structures made planning democratic and predictable.
+Looking back, the biggest achievement wasn’t a particular feature or metric; it was cultivating an open, data‑driven mindset. By shining a light on quality, turning OKRs into actions and celebrating transparency, we empowered the team to own the process. Our retrospectives were no longer blame sessions but learning opportunities. Post‑mortems turned instinct into evidence.
 
-There’s still plenty to improve – agile is a journey, not a destination. In future releases we will continue to refine our OKRs, automate more metrics and coach new teams on these practices. But the principles remain the same: focus on outcomes, measure what matters and foster a safe environment where everyone can contribute.
-
-If you’re curious about how to adapt these practices to your context, feel free to reach out. Agile isn’t a silver bullet, but with the right mindset and structures, it can make your team not only deliver more but also thrive along the way.
+In summary, the journey from lighting the way to truly soaring above obstacles required us to put quality and transparency at the center of everything we did. I’m proud of how far our team came during this time. We transformed our mindset and practices to consistently deliver on our commitments while fostering a supportive team culture. I hope these experiences and lessons can help other teams avoid some of the pitfalls we encountered — and maybe inspire them to experiment with their own agile practices.
